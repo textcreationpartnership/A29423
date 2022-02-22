@@ -1,0 +1,238 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Brief and true narration of the late wars risen in New-England occasioned by the quarrelsom disposition and persidious carriage of the barbarous, savage and heathenish natives there.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29423</idno>
+            <idno type="STC">Wing B4534</idno>
+            <idno type="STC">ESTC R23001</idno>
+            <idno type="EEBO-CITATION">12234784</idno>
+            <idno type="OCLC">ocm 12234784</idno>
+            <idno type="VID">56716</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29423)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56716)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 909:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Brief and true narration of the late wars risen in New-England occasioned by the quarrelsom disposition and persidious carriage of the barbarous, savage and heathenish natives there.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.S.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Indians of North America --  Wars. --  1600-1750.</term>
+               <term>King Philip's War, 1675-1676.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56716:1"/>
+            <pb facs="tcp:56716:1" rendition="simple:additions"/>
+            <p>A Brief and True NARRATION Of the Late VVARS RISEN IN New-England: Occaſioned by the Quarrelſom diſpoſition, and Perfidious Carriage OF THE <hi>Barbarous, Savage</hi> and <hi>Heatheniſh NATIVES</hi> There.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licenſed</p>
+                        <closer>
+                           <dateline>
+                              <date>November 16.</date>
+                           </dateline> 
+                           <signed>Roger Leſtrange.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON</hi> Printed for <hi>J. S.</hi> 1675.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:56716:2"/>
+            <pb n="3" facs="tcp:56716:2"/>
+            <opener>
+               <dateline>BOSTON <date>SEPTEMBER 7<hi rend="sup">th.</hi> 1675.</date>
+               </dateline>
+               <lb/>
+               <salute>SIR,</salute>
+            </opener>
+            <p>TIs not to be doubted but that Fame ere this hath ſounded in your Ears that the <hi>Indians</hi> in <hi>New Eng<g ref="char:EOLhyphen"/>land,</hi> have, by a late <hi>Rupture</hi> diſturbed the long and orderly <hi>Peace,</hi> that hath been enjoyed by us in theſe <hi>Flouriſhing Plantations</hi> of <hi>Engliſh</hi> in <hi>New England.</hi> And to the intent you might, without aggravating or diminiſhing of our <hi>Troubles</hi> here, have a true <hi>Natrative</hi> of thoſe <hi>Indi<g ref="char:EOLhyphen"/>ans Stirs,</hi> I have taken the care to commit this following <hi>Relation</hi> to Paper.</p>
+            <p>In the South parts of <hi>New Plymouth Collony</hi> in <hi>New England,</hi> is a Pro<g ref="char:EOLhyphen"/>montory of Land, about twelve miles long, called by the <hi>Engliſh Mount Hope,</hi> inhabited by <hi>Indians,</hi> whoſe Chief is named <hi>Metacon;</hi> by the <hi>Engliſh</hi> called King <hi>Philip;</hi> whoſe Grandfather <hi>Maſſaſoit</hi> in King <hi>James</hi>'s time was <hi>Sachem, i. e.</hi> Chief Lord of almoſt all the Lands in the ſaid <hi>New Plymouth Collony:</hi> but hath been ſince at ſeveral times ſold by the <hi>Indian</hi> Sachems and people to the <hi>Engliſh,</hi> who by their great induſtry, have of a howling Wilderneſs improved thoſe Lands into Corn fields, Orchards, encloſed Paſtures, and Towns inhabi<g ref="char:EOLhyphen"/>ted; which hath confiderably advanced the value of Lands: which poſſibly makes ſome <hi>Indians</hi> repent the ſale of them, and particu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar<g ref="char:EOLhyphen"/>ly Sachem <hi>Philip,</hi> of his confining himſelf unto ſo narrow a Territory: Therefore about five years ago be took occaſion to quarrel with the Inhabitants of the next Engliſh Town, called <hi>Swanſey,</hi> adjoyning to his Tract of Land, about Bounds and Fences; and being a Brother of his, about five years ſince died in an Engliſh Town, he ſaid, not without ſuſpicion of poyſon, by an Engliſh Chyrurgeon, though there was n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ground for it; which he ſaid be would by force revenge
+<pb n="4" facs="tcp:56716:3"/>upon them. But by the <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>tion of the M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſathuſets Colony all dif<g ref="char:EOLhyphen"/>ferences were fairly and <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ceably compoſ<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> between the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aid <hi>Philip</hi> and the Plymoutheans; and <hi>Philip</hi> obliged himſelf to be perſonally pre<g ref="char:EOLhyphen"/>ſent with two Wolves heads at the yearly Court of Election in <hi>Ply<g ref="char:EOLhyphen"/>mouth Collony.</hi> The laſt Winter a Chriſtian Indian Scholar, named <hi>Soſomon,</hi> went to preach the Goſpel to <hi>Philip</hi> and h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <hi>Indians,</hi> by his and their permiſſion; but after ſome time <hi>Sagamore Philip</hi> grew diſcon<g ref="char:EOLhyphen"/>tent with <hi>Soſomon:</hi> wherefore <hi>Soſomon</hi> returned from them to go to the Governour of <hi>New Plymouth Joſiah Winſlow</hi> Eſq but in his return three of <hi>Philips Indians</hi> ſet on him and murthered him. Theſe three Caitiffs were ſoon after apprehended by Governour <hi>Winſlow,</hi> and up<g ref="char:EOLhyphen"/>on clear Evidence and a legal Trial, had Judgment of Death; two of them ſoon after were executed, but the third breaking his Halter, was carried back and reſerved for Execution. This not a little diſpleaſed <hi>Philip,</hi> who feared (happily through his own guilt) that the <hi>Engliſh</hi> would not reſt there, though they did not any way moleſt h m by Trial or otherwiſe; upon which <hi>Philip</hi> ſecretly ſent his Meſſengers to ſeve<g ref="char:EOLhyphen"/>ral <hi>Indian Sachems,</hi> to enter into a ſtrict Confederacy with him againſt the <hi>Engliſh;</hi> and himſelf arms about 700 of this men, and obtains 1000 more of his Confederates: and what others beſides theſe he hath enga<g ref="char:EOLhyphen"/>ged to his party, is to the <hi>Engliſh</hi> unknown, though 'tis ſhrewdly ſuſpected this Cruel ſubtil Fellow hath engaged moſt of the <hi>Indians</hi> in the Countrey to eſpouſe his Quarrel as a Common Cauſe All this Spring <hi>Philips</hi> ſouldiers (who were well, fitted with Guns, Powder, Shot<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <hi>&amp;c.</hi> which they had long ſince gotten of the <hi>Dutch, French,</hi> yea, and of ſome <hi>Engliſh</hi> themſelves) were ſeen marching in their Arms even at the planting their Corn; of which unneceſſary preparations, the neighbouring <hi>Engliſh</hi> of <hi>Swanſey</hi> and <hi>Rehoboth</hi> were very apprehen<g ref="char:EOLhyphen"/>ſive: and diſcourſing with the Sagamore about it, he ſaid ſome had threatned him that he ſhould be hanged at <hi>Plymouth;</hi> but if he muſt die, he would die on his own land. <hi>June</hi> the 20th. ſeven of Saga<g ref="char:EOLhyphen"/>more <hi>Philips</hi> men came armed to a <hi>Swanſey</hi> mans houſe to grind a Hat<g ref="char:EOLhyphen"/>chet, the man told them it was the Lords Day; they ſalt they cared not for that, they would do it for all him or his God. They then went to another Houſe and asked for Victuals and Tobacco, ſome was given them and ſome they took, but hurt no man; ſhe ſame day they took a <hi>Swanſey</hi> man, travelling from, <hi>Road Iſland,</hi> through the Land, and kept him priſoner all night, uſed him, kindly and ſent him home the next day with this Caution, That he ſhould tell no lies. Up<g ref="char:EOLhyphen"/>on
+<pb n="5" facs="tcp:56716:3"/>theſe Jealouſies <hi>Swanſey</hi> men ſent to <hi>Plymouth</hi> and the Bay for aid, and accordingly 600 Voluntiers Horſe and Foot, were ſent un<g ref="char:EOLhyphen"/>der the Command of Major General <hi>Thomas Savage,</hi> a very active perſon. But before theſe Succors came, <hi>Swanſey</hi> men deſerted their houſes and drew all their Inhabitants into three Garriſon houſes. In this month of <hi>June</hi> the Election was at <hi>Plymouth,</hi> and <hi>Sagamore Phi<g ref="char:EOLhyphen"/>lip</hi> came not with his Tribute of two Wolves heads, according to his League laſt made. <hi>June</hi> 23. An Engliſhman ſeeing an <hi>Indian</hi> entering a deſerted <hi>Swanſey</hi> houſe ſhot at him. <hi>June</hi> the 24th. the <hi>Indians</hi> ſhot at ſeveral men travelling through <hi>Rehoboth,</hi> but ſlew none there; but at <hi>Swanſey</hi> they killed ſix men, going with a Cart; and ſet on one of the Garriſon houſes, and there killed two more and wounded other two; and likewiſe killed two that were travelling for a Chyrurgeon. Thus war began. The <hi>Indians</hi> have killed ſeveral <hi>Swanſey</hi> people, burnt 21 houſes in that Town, deſtroyed hundreds of Cattle, pulled down Fences, ruined much Corn and Hay in <hi>Plymouth Collony.</hi> The <hi>Indians</hi> lie lurking and ſculking in hideous woody Swamps, and thence let on travellors or men at their labours. At <hi>New Dartmouth</hi> (a Town in <hi>Plymouth Collony,</hi> moſt of them Quakers) they burnt all their hou<g ref="char:EOLhyphen"/>fes but one, <hi>viz</hi> 29, and ſlew ſeveral perſons. In <hi>Middlebrough</hi> the <hi>Indians</hi> burnt 21 houſes. In <hi>Taunton</hi> thty burnt ten houſes and killed ten perſons. In <hi>Rehoboth</hi> they have deſtroyed eight houſes, but killed none of the Inhabitants. While they were a firing <hi>Rehoboth;</hi> a Troop of <hi>Engliſh</hi> chaſed the <hi>Indians</hi> thence, and killed four <hi>Indians,</hi> one of which was <hi>Sagamore Philips</hi> Brother; and the <hi>Engliſh</hi> had one Trooper ſlain. At <hi>Mendam</hi> a Town in the <hi>Meſſathuſets,</hi> 30 miles from <hi>Boſton,</hi> the <hi>Indians</hi> killed three men, a woman and two children: And at <hi>Dorcheſter,</hi> on a Sabbath Day an <hi>Indian</hi> ſhot at a Maid in a lone houſe, but miſſed ber; ſhe with a generous courage charged and diſcharged a Piſtol at the <hi>Indian,</hi> and ſo wounded him, that he had much ado to eſcape by flying away. The <hi>Engliſh Forces</hi> at the firſt attempt drave <hi>Sagamore Philip</hi> out of his Countrey, ſeized his Fort with 200 buſhels of Corn, his Saddle and ſome of his Horſes; where they found four Engliſh heads on poles, which they took down, placing four Indian heads in their places. Thence they purſued the Indians into a Swampe, and tired at the Indians, and loſt ſix men beſides nine wounded; but how many Indians we killed we cannot tell: for ſo thick were the buſhes, that hardly one was to be ſeen. Night overtaking the Eng<g ref="char:EOLhyphen"/>liſh, they having firſt forced <hi>Sagamore Phillips</hi> men from their Wig<g ref="char:EOLhyphen"/>wams,
+<pb n="6" facs="tcp:56716:4"/>they returned out of the Swampe. A p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rty of our men engaged 400 Indians, and forced them over a Bridge, where we found two of <hi>Sagamore Phillips</hi> chief men dead; but the reſt immured themſelves in a Swampe near <hi>Pocaſſit,</hi> 7 miles long. Thus <hi>July</hi> ended, but in the be<g ref="char:EOLhyphen"/>ginning of <hi>Auguſt,</hi> the Engliſh having increaſed their numbers, reſol<g ref="char:EOLhyphen"/>ved to begirt the Swampe, and fall upon <hi>Philips</hi> Camp, which ſecond attempt being began, Sagamore <hi>Philip</hi> ruſhes out of the Swampe with his whole people, men, women and children, in ſight of the Engliſh Ar<g ref="char:EOLhyphen"/>my; making a direful out-cry. But our men reſolutely fell on them, and in an hour or two diſſipated the Indians and ſlew about twenty of them; one of whom was Sagamore <hi>Philips</hi> Lieutenant General, without the loſs of one of us. But Sagamore <hi>Philip,</hi> with moſt of his people, fled away again through the Swampe, clear out of that ſide of the Countrey, and all his Wigwams and Baggage was poſſeſt by the Engliſh.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ncas</hi> a Southern Sachem, ſent 49 at the firſt of his men well armed to the Maſſathuſets, to aid the Engliſh againſt <hi>Philip,</hi> and the Engliſh ordered them to march with their Head Army. After the laſt Skirmiſh, 40 of <hi>Philips</hi> Indians yielded themſelves to the Engliſh at diſcretion, by whom we hope to have a full diſcovery of the Indians plots, numbers, confederacies, and their hiding places.</p>
+            <p>All the Indians quite through the Countrey are in Arms, yet pretend favour to the Engliſh; however we truſt them not, as knowing they wait a fit occaſion againſt us: to prevent which the <hi>Conecticut Collony</hi> ſent 300 men to the <hi>Naraganſet</hi> Sachem, to force him to declare him<g ref="char:EOLhyphen"/>ſelf. On their approach he concluded a peace with the Engliſh, gave Hoſtages, and ſent 100 of his men againſt <hi>Philip.</hi> The Engliſh, to en<g ref="char:EOLhyphen"/>courage them, have promiſed them 20 Coats for <hi>Philip,</hi> and one a piece for each of his men, that they ſhall kill: but a double reward if they can catch and bring <hi>Philip</hi> or his men alive; for the Engliſhes deſign is rather to ſubject than to deſtroy the Indians: there being 120 Indi<g ref="char:EOLhyphen"/>an priſoners in the Governor of <hi>Plymouths</hi> Cuſtody, reſerved to be made ſervants of.</p>
+            <p>Three Sachems of the <hi>Nipmug</hi> Country came to <hi>Quab<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ug,</hi> alias <hi>Brookfield,</hi> an Engliſh Town about ſixty miles from <hi>Boſton,</hi> ſubſcribed to be faithful to the Engliſh; and in regard many of the Su<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>j<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cts of thoſe Sachems were praying Indians, the inhabitans of <hi>Brookfield,</hi> were the more confident of their fidelity. The Council ſent Captain <hi>Hutchiſon</hi> and Captain <hi>Wheeler,</hi> with thirty horſe, into the <hi>Nipmug</hi>
+               <pb n="7" facs="tcp:56716:4"/>Country, to treat with the Indians there, and get a clear demonſtra<g ref="char:EOLhyphen"/>tion of their affection to the Engliſh, by delivering their Arm and Hoſtages. Captain <hi>Hutchinſon</hi> with ſome Townſmen of <hi>Brookfield,</hi> (viz. <hi>Coy, Prichet, Aires,</hi> &amp;c. who had ſo much affiance in the Indians as not to carry weapons with them) went to treat with the Sachems, <hi>Auguſt</hi> 2. 75. at a place appointed by them: But the Indians not ap<g ref="char:EOLhyphen"/>pearing there, the Captain went near to a Swampe thereby, out of which the Indians furiouſly ruſhed on Captain <hi>Hutchinſon</hi>'s party in great numbers, and killed ſix perſons, and wounded eight more, of which Captain <hi>Wheeler</hi> and Captain <hi>Hutchinſon</hi> were two. The Cap<g ref="char:EOLhyphen"/>tains with their remainders haſted to the Town, and immediately goe all the inhabitants of <hi>Brookfield</hi> into one houſe, being about ſeventy in number. The Indians in two hours ſpace fired all the deſerted houſes in the Town, <hi>viz.</hi> twenty; and came with moſt hideous yellings, in way of triumph, and beſieged Captain <hi>Hutchinſon</hi> and the Towns people, ſhooting day and night for three days together; and attempt<g ref="char:EOLhyphen"/>ing to ſet the Gariſon-houſe on fire, which two or three times had likely to have been done, but that they within quenched it; and once a great ſhower of rain put out the fire. The Indians provided an Engine with thirty two pair of wheels, to fire the Gariſon houſe at fourteen rods diſtance: The Engliſh within uſed their utmoſt diligence to make their defence, and loſt only one within, and one killed, that occaſio<g ref="char:EOLhyphen"/>nally ſtept out. In the midſt of this exigent two Engliſh women were ſafely delivered in Child-birth in the Engliſh houſe.</p>
+            <p>Major <hi>Willard</hi> being near <hi>Lancaſter,</hi> hearing of the diſtreſs of thoſe at <hi>Brookefield,</hi> marched with fifty or ſixty Dragoons to their relief, and came in the night, and forc'd their way through the Indians into the yard of the Gariſon-houſe; ſecuring their horſes, they fired ſeveral volleys on the Indians, who in a little while fled all away. Thus all theſe perſons (bleſſed be God) were ſaved out of the hands of theſe barbarous and treacherous Enemies, when they were at the laſt gaſp, their powder being at it were ſpent, and all help failing, a mercy not to be forgotten. Captain <hi>Hutchinſon</hi> lived about three weeks, and then died of his wounds, in the ſixty third year of his age; this worthy Gentleman being the fifth or ſixth of his Family who periſhed by the Indians; for his Mother, Brother, Siſter, and Brother-in-law, were murthered by the Indians about thirty ſeven years ſince, at or near <hi>Long Iſland,</hi> &amp;c. Now about this time <hi>Philip</hi> with about forty men came <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ying from his Countrey to theſe three Sachems, and highly applauded
+<pb n="8" facs="tcp:56716:5"/>them, and gave them three pecks of Wampampeag <hi>(i. e. Indian Money)</hi> to encourage them againſt us; and having re-inforc'd himſelf, in about a fortnights time, as well by <hi>Piſcataqua, Penecock,</hi> as from the Southern Indians, invaded a Town called <hi>Squakeag,</hi> about 30 miles from <hi>Hadley,</hi> and then the <hi>Indians</hi> that marcht with our forces, ſhewed themſelves to be our faint friends, and we ſuſpected they would turn r<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al enemies in time of danger, becauſe they did not effectually purſue <hi>Ph<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lip</hi> according to Orders given them. Capt. <hi>Beers</hi> and Capt. <hi>Lothrop</hi> marcht with 150 ſoldiers to an <hi>Indian Fort</hi> near <hi>Hadley,</hi> and required the <hi>In<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ians</hi> to yield up their Arms; the <hi>Indians</hi> promiſed to anſwer them in the morning: that night they killed their Dogs and Swine, and fled to a Swamp; the Captains purſued them, fired and killed eight or ten, and in a few dayes after beſets another place in thoſe parts. Capt. <hi>Beers</hi> marcht with 35 ſoldiers to fetch off the Engliſh of a Town called <hi>Deerfield</hi> being an out<g ref="char:EOLhyphen"/>skirt Town of the <hi>Maſſathuſets Collony</hi> where the <hi>Indian<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> had burnt 20 houſes, was encountered by the way at firſt with 100 <hi>Indians,</hi> which the <hi>Engliſh</hi> worſted, killing 40 of them, with the loſs of three <hi>Engliſh.</hi> But 300 more came to their fellows reſcue, and killed Cap<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ain <hi>Beers</hi> and 18 more, with great ſhouts; and the 15 eſcapt. The <hi>In<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ians</hi> are there increaſed to, as is ſaid, a 1000; our Foces are ma<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ching to thoſe parts, and 100 more men from the <hi>Bay</hi> under Capt. <hi>Moſely,</hi> alſo 100 from <hi>Con<g ref="char:EOLhyphen"/>necticut,</hi> under Major <hi>Treate,</hi> with Mr <hi>Whiteing</hi> a Miniſter of <hi>Hartford;</hi> and we every day expect to hear of their good ſucceſs, which we pray <hi>God</hi> grant. We are told that <hi>Sagamore Philip</hi> begins to repen<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and is fled to the <hi>French</hi> at <hi>Canada</hi> for ſuccor; and that ſeveral of his men are gone to the <hi>Naraganſet Sachem</hi> of whoſe kindneſs to us we are not ſo well aſſu<g ref="char:EOLhyphen"/>red as we deſire; and ſome fears there are likewiſe that <hi>Philip</hi> alſo will make the protection of the <hi>Naraganſet Sachem</hi> his Refuge: ſo that we know not when this War will end. <hi>There is a Declaration publiſhed by the Council of the Maſſathuſets That thoſe Indians who profe<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be in amity with the Engliſh, forthwith repair to five places appointed them; if they or any Indian appear one mile from the place, he ſhall be looked at a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> an enemy.</hi>
+            </p>
+            <p>Three hundred <hi>Indians</hi> were in arms at <hi>Kenibe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k</hi> 60 miles eaſt of <hi>P<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>aqua,</hi> Capt. <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of <hi>Boſton</hi> being there with 100 men, demanded the reaſon of the <hi>I<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ans</hi> arming? <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey ſaid news was brought them that the <hi>Engliſh</hi> were reſolved to root out all the <hi>Indians;</hi> but they being informed that it was only <hi>Phi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ip</hi> and his obſtinate Confede<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ates, that the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> had declared againſt: this pacified them, and ſome brought in their arms, and Captain <hi>Lake</hi> hath ſecured ſix of their Princes as 'tis ſaid; and at <hi>Paſcataqua</hi> moſt of the <hi>Indians</hi> have brought in their arms, and Captain <hi>Lake</hi> hath ſecured ſix of their Princes as <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t is ſaid; and at <hi>Paſcataqua</hi> moſt of the <hi>Indians</hi> have brought in their arms, and are reſolved to be quiet. Our heathen enemies, what men or women they take alive, they maſſacre in a cruel manner, as fleaing the skins over their heads, cutting <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ff their hands, &amp;c. <hi>We confeſs our ſins, now we are grown fat <hi>Jeſurun</hi> like, hath cauſed this Judgment; the good God pardon them, cure us, and then we hope he will re<g ref="char:EOLhyphen"/>move his heavy hand. <hi>Amen.</hi>
+               </hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:56716:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
